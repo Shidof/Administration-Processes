@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-AT" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 337631938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Setup</source>
+          <target>Benutzer Einrichtung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Benutzer-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 3865205833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Posting From</source>
+          <target>Buchungen zugel. ab</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Allow Posting From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 1390204486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Posting To</source>
+          <target>Buchungen zugel. bis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Allow Posting To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 1227756584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register Time</source>
+          <target>Protokollzeit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Register Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 3883264070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salespers./Purch. Code</source>
+          <target>Verk.-/Einkäufercode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Salespers./Purch. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 124852388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approver ID</source>
+          <target>Genehmiger-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Approver ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 1238409858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Amount Approval Limit</source>
+          <target>Grenzbetrag für Verkauf</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Sales Amount Approval Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 3621681671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Amount Approval Limit</source>
+          <target>Grenzbetrag für Einkauf</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Purchase Amount Approval Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 2478039004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unlimited Sales Approval</source>
+          <target>Unbegrenzte Verkaufsgenehmigung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Unlimited Sales Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 706123333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unlimited Purchase Approval</source>
+          <target>Unbegrenzte Einkaufsgenehmigung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Unlimited Purchase Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 1502113334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Substitute</source>
+          <target>Stellvertreter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Substitute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target>E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 1147508617 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Amount Approval Limit</source>
+          <target>Grenzbetrag für Anfrageanforderung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Request Amount Approval Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 2388807179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unlimited Request Approval</source>
+          <target>Unbegrenzte Anfragegenehmigung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Unlimited Request Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 788613904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval Administrator</source>
+          <target>Genehmigungsadministrator</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Approval Administrator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 3673444989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License Type</source>
+          <target>Lizenztyp</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field License Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 3673444989 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full User,Limited User,Device Only User,Windows Group,External User</source>
+          <target>Vollständiger Benutzer,Eingeschränkter Benutzer,Einziger Benutzer des Geräts,Windows-Gruppe,Externer Benutzer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field License Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 3488851693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Sheet Admin.</source>
+          <target>Arbeitszeitnachweisadministrator</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Time Sheet Admin. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 1317237916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow FA Posting From</source>
+          <target>Anlagenbuchungen zugel. ab</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Allow FA Posting From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 2923121087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow FA Posting To</source>
+          <target>Anlagenbuchungen zugel. bis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Allow FA Posting To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 2223719131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Resp. Ctr. Filter</source>
+          <target>Verk.-Zuständigk.-Einh. Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Sales Resp. Ctr. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 4012905158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Resp. Ctr. Filter</source>
+          <target>Eink.-Zuständigk.-Einh. Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Purchase Resp. Ctr. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - Field 1529938896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Resp. Ctr. Filter</source>
+          <target>Serv.-Zuständigk.-Einh. Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - Field Service Resp. Ctr. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 Salesperson/Purchaser code is already assigned to another User ID %2.</source>
+          <target>Der Verkäufer-/Einkäufercode '%1' ist bereits einer anderen Benutzer-ID '%2' zugewiesen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot have both a %1 and %2. </source>
+          <target>%1 und %2 können nicht zugleich vorhanden sein. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot have approval limits less than zero.</source>
+          <target>Die Genehmigungsgrenzwerte können nicht kleiner als Null sein.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Table 337631938 - NamedType 992176934" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Privacy Blocked must not be true for Salesperson / Purchaser %1.</source>
+          <target>"Datenschutzsperre" darf für den Verkäufer/Einkäufer %1 nicht "true" sein.</target>
+          <note from="Developer" annotates="general" priority="2">, Comment='%1 = salesperson / purchaser code.'</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table User Setup - NamedType PrivacyBlockedGenericErr</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

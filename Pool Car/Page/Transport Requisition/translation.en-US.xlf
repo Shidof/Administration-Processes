@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2201008573 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Control 266801057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request No</source>
+          <target>Request No</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Control Application Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Control 665443949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applicant No.</source>
+          <target>Applicant No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Control Employee No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Control 193708152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applicant Name</source>
+          <target>Applicant Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Control Names - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Control 602795601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Title</source>
+          <target>Job Title</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Control Job Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Control 4202510130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Description</source>
+          <target>Job Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Control EmpJobDesc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Control 906940112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supervisor Email</source>
+          <target>Supervisor Email</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Control Supervisor Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Action 3860314472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approvals</source>
+          <target>Approvals</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Action Approvals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Action 383335270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Approval Request</source>
+          <target>Send Approval Request</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Action SendApprovalRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Action 858296388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Approval Request</source>
+          <target>Cancel Approval Request</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Action CancelApprovalRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Action 803889193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve</source>
+          <target>Approve</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Action Approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Action 113888489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reject</source>
+          <target>Reject</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Action Reject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vacancy for the Postion of %1</source>
+          <target>Vacancy for the Postion of %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This e-mail is from Microsoft Dynamics BC. Please do not reply</source>
+          <target>This e-mail is from Microsoft Dynamics BC. Please do not reply</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>We are pleased to inform you of %1  opportunity within the organisation. Kindly click on the link below to see the Job Description and the requirements. </source>
+          <target>We are pleased to inform you of %1  opportunity within the organisation. Kindly click on the link below to see the Job Description and the requirements. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You may refer qualified applicants to apply for the role.</source>
+          <target>You may refer qualified applicants to apply for the role.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applicants should send their application as the body of the email indicating the position applied for as email subject and their CV in MS Word or PDF format as an attachment to hr@relianceinfosystems.com copying careers@relianceinfosystems.com </source>
+          <target>Applicants should send their application as the body of the email indicating the position applied for as email subject and their CV in MS Word or PDF format as an attachment to hr@relianceinfosystems.com copying careers@relianceinfosystems.com </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applicants should apply via this %1</source>
+          <target>Applicants should apply via this %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please note that only shortlisted candidates will be contacted. </source>
+          <target>Please note that only shortlisted candidates will be contacted. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transport requisition with ID No. %1 raised by %2 for the purpose of (%3) requires your attention. Please find details below:</source>
+          <target>Transport requisition with ID No. %1 raised by %2 for the purpose of (%3) requires your attention. Please find details below:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 1911734342" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a system generated mail.</source>
+          <target>This is a system generated mail.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType SystemGenerated</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please be informed that your transport requisition for the purpose of %1 has been finally approved by %2. </source>
+          <target>Please be informed that your transport requisition for the purpose of %1 has been finally approved by %2. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dear</source>
+          <target>Dear</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Advance with No. %1 requires your urgent payment processing. Kindly proceed to disburse the payment to the beneficiary on the approved payment requisition page.</source>
+          <target>Cash Advance with No. %1 requires your urgent payment processing. Kindly proceed to disburse the payment to the beneficiary on the approved payment requisition page.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;br&gt; Reason for Request: %1&lt;/br&gt;Other Reasons: %2</source>
+          <target>&lt;br&gt; Reason for Request: %1&lt;/br&gt;Other Reasons: %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transport Requisition with ID: %1 :: Requester: %2 ::Trip Purpose: %3 </source>
+          <target>Transport Requisition with ID: %1 :: Requester: %2 ::Trip Purpose: %3 </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Page 2201008573 - Method 311912160 - NamedType 3004040435" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please be informed that your transport requisition %1 has been approved.&lt;br&gt;&lt;br&gt;Kindly note that the next approver is &lt;b&gt;%2&lt;/b&gt; </source>
+          <target>Please be informed that your transport requisition %1 has been approved.&lt;br&gt;&lt;br&gt;Kindly note that the next approver is &lt;b&gt;%2&lt;/b&gt; </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Staff Transport Requisition - Method NotifyRequesterOfEachApproval - NamedType Msg</note>
+        </trans-unit>
+        <trans-unit id="Page 3774769819 - Action 548946099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transport Requests</source>
+          <target>Transport Requests</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Requests List - Action Transport Requests - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

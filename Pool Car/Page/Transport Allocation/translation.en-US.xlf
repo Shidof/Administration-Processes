@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 4261880091 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Functions</source>
+          <target>New,Process,Report,Functions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - Control 4245755766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allocation No.</source>
+          <target>Allocation No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Control Transport Allocation No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - Control 3565368526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closing Remarks</source>
+          <target>Closing Remarks</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Control Closing Remarks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functions</source>
+          <target>Functions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <target>&amp;Print</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - Action 3829427401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re-Open</source>
+          <target>Re-Open</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Action &lt;Action1102755035&gt; - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <target>Release</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - Action 3687201325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Returned</source>
+          <target>Returned</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - Action Returned - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - NamedType 558725520" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger List</source>
+          <target>Passenger List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - NamedType Text19021002</note>
+        </trans-unit>
+        <trans-unit id="Page 4261880091 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to Release this Document?</source>
+          <target>Are you sure you want to Release this Document?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocation - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Functions</source>
+          <target>New,Process,Report,Functions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functions</source>
+          <target>Functions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <target>&amp;Print</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - Action 3350281289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re-Open</source>
+          <target>Re-Open</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - Action &lt;Action1102755035&gt;p - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <target>Release</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - Action 43036004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transport Allocations</source>
+          <target>Transport Allocations</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - Action Transport Allocations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - NamedType 558725520" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger List</source>
+          <target>Passenger List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - NamedType Text19021002</note>
+        </trans-unit>
+        <trans-unit id="Page 1025915332 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to Release this Document?</source>
+          <target>Are you sure you want to Release this Document?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HR Transport Allocations List - NamedType Text001</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

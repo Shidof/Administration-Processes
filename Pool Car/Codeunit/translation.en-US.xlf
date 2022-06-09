@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 3917369925 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval request has been sent.</source>
+          <target>Approval request has been sent.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The approval cannot be cancelled because it has been treated by your approver.</source>
+          <target>The approval cannot be cancelled because it has been treated by your approver.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please hold on. This document requires a prior approval.</source>
+          <target>Please hold on. This document requires a prior approval.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The document has been approved.</source>
+          <target>The document has been approved.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The document has been rejected.</source>
+          <target>The document has been rejected.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dear </source>
+          <target>Dear </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 requires your approval.</source>
+          <target>%1 requires your approval.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 requires your approval. Please click on the link below to approve or reject the document.</source>
+          <target>%1 requires your approval. Please click on the link below to approve or reject the document.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a system generated mail.</source>
+          <target>This is a system generated mail.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 has been approved.</source>
+          <target>%1 has been approved.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please note that transaction %1 has been approved.</source>
+          <target>Please note that transaction %1 has been approved.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 has been rejected.</source>
+          <target>%1 has been rejected.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please note that transaction %1 has been rejected.</source>
+          <target>Please note that transaction %1 has been rejected.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your approval request is completed for %1.</source>
+          <target>Your approval request is completed for %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an automatic notification for your approval request on %1. The request is now approved and you can proceed on further action.</source>
+          <target>This is an automatic notification for your approval request on %1. The request is now approved and you can proceed on further action.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click the following link to view the approved record.</source>
+          <target>Click the following link to view the approved record.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The document approvals has been reset and the document is reopened.</source>
+          <target>The document approvals has been reset and the document is reopened.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917369925 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 requires yoururgent payment processingl. Kindly proceed to disburse the payment to the beneficiary on the approved payment requisition page.</source>
+          <target>%1 requires yoururgent payment processingl. Kindly proceed to disburse the payment to the beneficiary on the approved payment requisition page.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Document Approval Workflow - NamedType Text018</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

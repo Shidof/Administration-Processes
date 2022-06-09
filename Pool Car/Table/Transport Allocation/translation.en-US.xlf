@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2833388174 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot modify an Approved or Closed Record</source>
+          <target>You cannot modify an Approved or Closed Record</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table HR Transport Allocations H - NamedType Text0001</note>
+        </trans-unit>
+        <trans-unit id="Table 2833388174 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your identification is set up to process from %1 %2 only.</source>
+          <target>Your identification is set up to process from %1 %2 only.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table HR Transport Allocations H - NamedType Text001</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
